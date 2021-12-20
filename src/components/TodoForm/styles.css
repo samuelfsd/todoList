@@ -1,0 +1,16 @@
+.form{
+  padding-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.input-form{
+  border: 4px solid black;
+}
+.btn-form{
+  width:55px;
+  height:30px;
+  background-color:#07C7A4;
+  border:none;
+}

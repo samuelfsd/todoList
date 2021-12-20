@@ -1,0 +1,19 @@
+.done{
+  text-decoration: line-through;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.item{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  font-size: 30px;
+  padding: 15px;
+  margin-top: 15px;
+}
